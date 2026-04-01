@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mekan Janmuratov
+## Hi👋, I'm Mekan
 
 # 💫 About Me:
 | Aspiring Software Developer <br>| Python, CS fundamentals & projects <br>| Applying for Ausbildung in software development
