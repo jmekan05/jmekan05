@@ -1,7 +1,11 @@
 ## Hi👋, I'm Mekan
 
 # 💫 About Me:
-| Aspiring Software Developer <br>| Python, CS fundamentals & projects <br>| Applying for Ausbildung in software development
+Backend-focused developer building API-driven applications and AI-powered tools.
+
+Currently developing a system that generates structured learning paths based on user input (AI-powered roadmap generator).
+
+Interested in backend engineering, automation, and AI systems.
 
 
 # 💻 Tech Stack:
