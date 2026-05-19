@@ -40,6 +40,7 @@ for Computer Engineering — focused on AI systems and embedded robotics.
 
 ## 📫 Reach me
 🌐 Instagram : mekan.dev
+
 Open to research collaboration and mentorship conversations.
 
 ---
