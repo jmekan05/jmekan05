@@ -39,7 +39,7 @@ Applying to **UT Arlington (BSCpE)**, **Texas Tech (BS CpE)**, and **Texas State
 for Computer Engineering — focused on AI systems and embedded robotics.
 
 ## 📫 Reach me
-🌐 Instagram: mekan.dev ·
+🌐 Instagram: https://instagram.com/mekan.dev/
 
 Open to research collaboration and mentorship conversations.
 
