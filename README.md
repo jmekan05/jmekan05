@@ -1,13 +1,12 @@
 # Hi, I'm Mekan Janmuratov 👋
 
-**Computer Engineering student** · Turkmenistan → Texas, USA · Fall 2027
+**Computer Engineering student** · Turkmenistan → Texas, USA · Spring 2027
 
 I'm building toward one goal: **designing the intelligence layer of autonomous machines**
 — robots and embedded systems that sense, decide, and act in the real world.
 Not chatbots. Real machines.
 
 ## 🤖 What I'm working on
-- **AI Skill Roadmap Generator** — generates structured learning paths (Python, AI-powered)
 - **Python engineering projects** — OOP tools, sensor simulators, data scripts
 - **Pre-departure prep** — C++, embedded systems, calculus, robotics fundamentals
 
@@ -28,14 +27,14 @@ Not chatbots. Real machines.
 ## 🎯 The roadmap
 | Phase | Timeline | Focus | Status |
 |---|---|---|---|
-| Foundation | May–Jul 2026 | C++, Algebra, Python depth, Arduino | 🔄 In progress |
+| Foundation | May–Jul 2026 | C++, Algebra, Python depth, Arduino | ✅ Done |
+| Applications | July-August 2026 | Raspberry Pi, CV, university applications | 🔁 In Progress |
 | Systems | Aug–Oct 2026 | Pointers, Calculus, Linear Algebra, hardware | ⏳ Upcoming |
-| Applications | Nov 2026–Jan 2027 | Raspberry Pi, CV, university applications | ⏳ Upcoming |
+| University | Spring 2027 | Computer Engineering — Texas, USA | 🎯 Goal |
 | Capstone | Feb–Aug 2027 | ROS 2, ML, autonomous system | ⏳ Upcoming |
-| University | Fall 2027 | Computer Engineering — Texas, USA | 🎯 Goal |
 
 ## 🎓 Target universities — Fall 2027
-Applying to **UT Arlington (BSCpE)**, **Texas Tech (BS CpE)**, and **Texas State**
+Applying to **UT Arlington (BSCpE)**, and **Texas Tech (BS CpE)**
 for Computer Engineering — focused on AI systems and embedded robotics.
 
 ## 📫 Reach me
