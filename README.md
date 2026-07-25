@@ -13,10 +13,7 @@ Not chatbots. Real machines.
 ## 🛠 Current tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ## 📚 Currently learning
 ![C++](https://img.shields.io/badge/C++-learncpp.com-00599C?style=flat)
@@ -33,7 +30,7 @@ Not chatbots. Real machines.
 | University | Spring 2027 | Computer Engineering — Texas, USA | 🎯 Goal |
 | Capstone | Feb–Aug 2027 | ROS 2, ML, autonomous system | ⏳ Upcoming |
 
-## 🎓 Target universities — Fall 2027
+## 🎓 Target universities — Spring 2027
 Applying to **UT Arlington (BSCpE)**, and **Texas Tech (BS CpE)**
 for Computer Engineering — focused on AI systems and embedded robotics.
 
