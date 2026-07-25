@@ -8,7 +8,7 @@ Not chatbots. Real machines.
 
 ## 🤖 What I'm working on
 - **Python engineering projects** — OOP tools, sensor simulators, data scripts
-- **Pre-departure prep** — C++, embedded systems, calculus, robotics fundamentals
+- **Pre-departure prep** — C++, Algebra, calculus, robotics fundamentals
 
 ## 🛠 Current tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,8 +27,8 @@ Not chatbots. Real machines.
 ## 🎯 The roadmap
 | Phase | Timeline | Focus | Status |
 |---|---|---|---|
-| Foundation | May–Jul 2026 | C++, Algebra, Python depth, Arduino | ✅ Done |
-| Applications | July-August 2026 | Raspberry Pi, CV, university applications | 🔁 In Progress |
+| Foundation | May–Jul 2026 | C++, Algebra, Python depth | ✅ Done |
+| Applications | July-August 2026 | University applications | 🔁 In Progress |
 | Systems | Aug–Oct 2026 | Pointers, Calculus, Linear Algebra, hardware | ⏳ Upcoming |
 | University | Spring 2027 | Computer Engineering — Texas, USA | 🎯 Goal |
 | Capstone | Feb–Aug 2027 | ROS 2, ML, autonomous system | ⏳ Upcoming |
