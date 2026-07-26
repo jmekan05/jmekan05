@@ -4,13 +4,13 @@
 
 I'm building toward one goal: **designing the intelligence layer of autonomous machines**
 — robots and embedded systems that sense, decide, and act in the real world.
-Not chatbots. Real machines.
+Not chatbots. Real machines!
 
-## 🤖 What I'm working on
+## 🤖 What I'm Working on
 - **Python engineering projects** — OOP tools, sensor simulators, data scripts
 - **Pre-departure prep** — C++, Algebra, calculus, robotics fundamentals
 
-## 🛠 Current tech stack
+## 🛠 Current Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -21,7 +21,7 @@ Not chatbots. Real machines.
 ![LinAlg](https://img.shields.io/badge/Linear_Algebra-3Blue1Brown-534AB7?style=flat)
 ![Embedded](https://img.shields.io/badge/Embedded_Systems-Arduino-BA7517?style=flat)
 
-## 🎯 The roadmap
+## 🎯 The Roadmap
 | Phase | Timeline | Focus | Status |
 |---|---|---|---|
 | Foundation | May–Jul 2026 | C++, Algebra, Python depth | ✅ Done |
