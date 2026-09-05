@@ -1,6 +1,6 @@
 # Hi, I'm Mekan Janmuratov 👋
 
-**Computer Engineering student** · Turkmenistan → Texas, USA · Spring 2027
+**Computer Engineering student** · Turkmenistan → Texas, USA · Fall 2027
 
 I'm building toward one goal: **designing the intelligence layer of autonomous machines**
 — robots and embedded systems that sense, decide, and act in the real world.
